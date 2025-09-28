@@ -1,0 +1,21 @@
+{
+  "name": "pipeline_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.ts",
+    "test":"node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheeseyhub/pipeline_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheeseyhub/pipeline_test/issues"
+  },
+  "homepage": "https://github.com/cheeseyhub/pipeline_test#readme"
+}
